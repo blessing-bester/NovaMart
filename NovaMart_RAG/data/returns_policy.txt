@@ -1,0 +1,10 @@
+NovaMart allows customers to return products within 30 days of purchase, with proof of purchase. 
+Products must be in original packaging. Refunds are issued to the original payment method. 
+Items such as gift cards, personalized products, and clearance items cannot be returned. 
+
+Extended Policies:
+- Electronics and appliances must include all accessories and manuals for returns.
+- Seasonal items (holiday decor, promotional merchandise) must be returned within 14 days.
+- Bulk orders for business clients can be returned within 15 days, subject to inspection.
+
+NovaMart continuously updates the policy to ensure customer satisfaction while protecting company interests.

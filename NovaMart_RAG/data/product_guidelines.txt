@@ -1,0 +1,13 @@
+All products sold at NovaMart adhere to strict quality and safety standards.
+
+- Electronics: 1-year manufacturer warranty; certified quality inspection required before stocking
+- Home Essentials: Sourced from approved suppliers; seasonal stock rotation
+- Groceries: Freshness guarantee; weekly quality checks for perishables
+- Apparel: Compliance with ethical manufacturing standards; size labeling and tagging mandatory
+
+Product Documentation:
+- Each product category has a standard operating procedure (SOP)
+- Inventory and restocking cycles documented in NovaMart ERP system
+- Promotions and discounts must be pre-approved by store manager
+
+NovaMart emphasizes sustainability, using eco-friendly packaging where possible.

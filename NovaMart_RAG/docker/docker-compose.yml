@@ -1,0 +1,16 @@
+version: '3.9'
+services:
+  nova-rag-api:
+    build: ../docker
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../data:/app/data
+      - ../embeddings:/app/embeddings
+
+  nova-rag-frontend:
+    image: streamlit/streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - ../frontend:/app

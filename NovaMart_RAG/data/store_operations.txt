@@ -1,0 +1,11 @@
+NovaMart store operations cover day-to-day procedures and logistics:
+
+- Opening & Closing: Checklists for cash registers, stock inventory, safety checks
+- Inventory Management: Daily reconciliation with ERP system
+- Staff Scheduling: Rotas generated monthly and updated weekly
+- Customer Service: Standard procedures for complaints, returns, and queries
+- Safety Protocols: Fire drills, first-aid stations, and emergency contacts
+- Delivery & Stocking: Guidelines for receiving, verifying, and shelving new stock
+- Performance Tracking: Daily sales metrics recorded in ERP and dashboard reports
+
+Operations manuals are updated quarterly to reflect new policies and regulations.
