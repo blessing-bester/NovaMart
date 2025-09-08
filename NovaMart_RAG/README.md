@@ -58,5 +58,5 @@ To **retain institutional memory**, NovaMart wants to implement a **smart knowle
 - **Docker & Kubernetes** → Containerized deployment for scalability  
 ![NovaMart RAG in Action](localhost_RAG.jpeg)
 
-
+![NovaMart RAG in Action](localhost_RAG2.jpeg)
 ---
