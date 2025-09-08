@@ -56,5 +56,7 @@ To **retain institutional memory**, NovaMart wants to implement a **smart knowle
 - **LangChain / Haystack** → Orchestrate the retrieval and generation pipeline  
 - **Python / FastAPI** → Backend API to serve RAG queries  
 - **Docker & Kubernetes** → Containerized deployment for scalability  
+![NovaMart RAG in Action](localhost_RAG.jpeg)
+
 
 ---
